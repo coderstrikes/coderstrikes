@@ -1,3 +1,4 @@
+![LOGO](https://github.com/coderstrikes/coderstrikes/blob/main/BANNER.png)
 <h1 align="center">Hi 👋, I'm CODE SRIKER</h1>
 <h3 align="center">Welcome to Code striker, a comprehensive repository dedicated to storing and sharing source codes for various algorithms.</h3>
 
